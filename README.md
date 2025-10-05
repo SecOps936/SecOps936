@@ -28,6 +28,6 @@ I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital
 
 ---
 
-## 📫 Connect with Me
+## 📫 Communicate with Me Direct
 0624523106
 
