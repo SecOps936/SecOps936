@@ -29,7 +29,7 @@ I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital
 
 ## 📫 Communicate with Me Direct
 0624523106
-## 📊 GitHub Stats
+
 
 [![SecOps936's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SecOps936&show_icons=true&theme=radical)](https://github.com/SecOps936)
 
