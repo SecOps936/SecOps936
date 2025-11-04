@@ -1,18 +1,4 @@
 # 👋 Hi, I'm SecOps936!
-## 📊 GitHub Stats
-
-[![SecOps936's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SecOps936&show_icons=true&theme=radical)](https://github.com/SecOps936)
-
-## 🏆 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecOps936&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/SecOps936)
-
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=SQA_Project&show_icons=true&theme=radical)](https://github.com/SecOps936/SQA_Project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=miss-tourism&show_icons=true&theme=radical)](https://github.com/SecOps936/miss-tourism)
-
 ## 🚀 About Me
 I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital Forensics Engineering**. My journey blends hands-on experience in deployment and automation with an ongoing pursuit of knowledge in security and forensics.
 
@@ -43,4 +29,17 @@ I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital
 
 ## 📫 Communicate with Me Direct
 0624523106
+## 📊 GitHub Stats
+
+[![SecOps936's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SecOps936&show_icons=true&theme=radical)](https://github.com/SecOps936)
+
+## 🏆 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecOps936&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/SecOps936)
+
+## 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=SQA_Project&show_icons=true&theme=radical)](https://github.com/SecOps936/SQA_Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=miss-tourism&show_icons=true&theme=radical)](https://github.com/SecOps936/miss-tourism)
 
