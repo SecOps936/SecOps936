@@ -43,6 +43,3 @@ I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=miss-tourism&show_icons=true&theme=radical)](https://github.com/SecOps936/miss-tourism)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=Heptacorenet&show_icons=true&theme=radical)](https://github.com/SecOps936/Heptacorenet)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=e-learning-project&show_icons=true&theme=radical)](https://github.com/SecOps936/e-learning-project)
