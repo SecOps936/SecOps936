@@ -11,7 +11,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=SQA_Project&show_icons=true&theme=radical)](https://github.com/SecOps936/SQA_Project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=miss_tourism&show_icons=true&theme=radical)](https://github.com/SecOps936/miss_tourism)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SecOps936&repo=miss-tourism&show_icons=true&theme=radical)](https://github.com/SecOps936/miss-tourism)
 
 ## 🚀 About Me
 I'm a passionate **DevOps** and a dedicated student of **Cybersecurity & Digital Forensics Engineering**. My journey blends hands-on experience in deployment and automation with an ongoing pursuit of knowledge in security and forensics.
